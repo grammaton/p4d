@@ -19,7 +19,7 @@ skin: "/assets/css/skins/dark.css"
 locale: it-IT
 title: "P4D"
 description: "pensare la musica con disobbedienza, disappunto, disordine e disincanto."
-baseurl: "/pensare4d" # the subpath of your site, e.g. "/blog"
+baseurl: "/p4d" # the subpath of your site, e.g. "/blog"
 url: "https://grammaton.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
