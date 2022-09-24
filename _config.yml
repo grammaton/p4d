@@ -21,7 +21,7 @@ title: "P4D"
 description: "pensare la musica con disobbedienza, disappunto, disordine e disincanto."
 baseurl: "/p4d" # the subpath of your site, e.g. "/blog"
 url: "https://grammaton.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: images/gs-p4d-logo.png # path of site logo, e.g. "/images/logo.png"
+logo: # images/gs-p4d-logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
