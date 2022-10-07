@@ -84,7 +84,8 @@ apparenti.
 
 E da qui l'errore, superficiale, applicato al concetto di suono virtuale.
 
-> CITAZIONE LIBRO
+> PERCHÉ “IL SUONO VIRTUALE?”
+> Il titolo si riferisce a quella fase un po' misteriosa della composizione elettroacustica in cui abbiamo creato un suono a partire “dal nulla”, cioè da idee, formule, desideri, metodi, e questo suono non ha ancora fatto il suo ingresso nel mondo fisico: è perciò un suono virtuale. 
 
 Il suono virtuale così descritto implica il ragionamento che un suono creato
 al computer è un suono potenziale, non attuale ed effettivo, non reale.
