@@ -99,7 +99,7 @@
 .site-logo-img {
   width: $site-logo-width;
   height: $site-logo-height;
-  border: 10px solid;
+  border: 5px solid;
   border-radius: $site-logo-width;
 
   @include breakpoint($medium) {
