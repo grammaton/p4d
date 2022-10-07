@@ -4,5 +4,5 @@ layout: posts
 permalink: /posts/
 show_excerpts: true
 entries_layout: list
-image: /images/IMG_0305.jpeg
+image: /images/IMG_2215.jpg
 ---
