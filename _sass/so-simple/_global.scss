@@ -101,6 +101,7 @@
   height: $site-logo-height;
   border: 5px solid;
   border-radius: $site-logo-width;
+  margin-top: 0.5em;
 
   @include breakpoint($medium) {
     width: 1.5 * $site-logo-width;
