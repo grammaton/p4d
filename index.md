@@ -4,12 +4,6 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
->PAD
->
->: a thick piece of soft material, typically used to protect or shape something
-
-P4D non è uno spazio personale. Il tuo midollo è 4D e vuoi divenire
-autore su questo spazio? Apri un [issue][issue].
 
 _Cosa significa essere contemporanei? Di chi e di che cosa siamo contemporanei?_
 Sono le domande proposte da Agamben per riflettere sull'_essere contemporaneo._
@@ -21,8 +15,8 @@ _vuole fare i conti col suo tempo, prendere posizione rispetto al presente…_
 _perché cerca di comprendere come un male, un inconveniente e un difetto_
 _qualcosa di cui l'epoca va giustamente orgogliosa, cioè la sua cultura storica._
 
-E questo è Nietzsche che vive dentro Agamben e che in questo spazio risuona, o
-si _vuole_ far risuonare, come un'antica caverna ai bordi estremi della storia,
+E questo è Nietzsche che vive in Agamben e che in questo spazio risuona, o
+si _vuole_ far risuonare, come in un'antica caverna ai bordi estremi della storia,
 dove l'_uomo sfasato_ si accende un fuoco e mormora la sua inattualità alle
 pareti.
 
@@ -39,9 +33,13 @@ nell'incomunicabile attuale.
 
 La musica è solo al presente. È la voce del tempo. Riflettere la musica, sulla,
 nella, della, per la musica è vivere il presente e deve essere un perpetuo
+_tornare a un presente in cui non siamo mai stati_ mettendolo in relazione
+continua con il tempo, con gli altri tempi.
 
-> tornare a un presente in cui non siamo mai stati
-
-mettendolo in relazione continua con il tempo, con gli altri tempi.
+_PAD: a thick piece of soft material, typically used to protect or shape something_
+P4D non è uno spazio personale.
+Il tuo midollo è 4D e vuoi divenire autore su questo spazio?
+Apri un [issue][issue].
+{: .notice}
 
 [issue]: https://github.com/grammaton/p4d/issues
