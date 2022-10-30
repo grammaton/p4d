@@ -36,9 +36,10 @@ nella, della, per la musica è vivere il presente e deve essere un perpetuo
 _tornare a un presente in cui non siamo mai stati_ mettendolo in relazione
 continua con il tempo, con gli altri tempi.
 
-_PAD: a thick piece of soft material, typically used to protect or shape something_
-P4D non è uno spazio personale.
-Il tuo midollo è 4D e vuoi divenire autore su questo spazio?
+>_PAD: a thick piece of soft material, typically used to protect or shape something_
+
+P4D non è uno spazio personale.    
+Il tuo midollo è 4D e vuoi divenire autore su questo spazio?    
 Apri un [issue][issue].
 {: .notice}
 
