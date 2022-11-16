@@ -11,9 +11,8 @@ Questo spazio non contiene le risposte, ma ne osserva l'attitudine proposta, ne
 segue la riflessione in risonanza.
 
 _Il contemporaneo è l'intempestivo_ che
-_vuole fare i conti col suo tempo, prendere posizione rispetto al presente…_
-_perché cerca di comprendere come un male, un inconveniente e un difetto_
-_qualcosa di cui l'epoca va giustamente orgogliosa, cioè la sua cultura storica._
+
+> vuole fare i conti col suo tempo, prendere posizione rispetto al presente… perché cerca di comprendere come un male, un inconveniente e un difetto qualcosa di cui l'epoca va giustamente orgogliosa, cioè la sua cultura storica.
 
 E questo è Nietzsche che vive in Agamben e che in questo spazio risuona, o
 si _vuole_ far risuonare, come in un'antica caverna ai bordi estremi della storia,
