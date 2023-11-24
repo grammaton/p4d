@@ -1,5 +1,7 @@
 # Sample site navigation bar links
 
+- title: LEAP
+  url: https://l-e-a-p.github.io
 - title: Home
   url: /
 - title: Posts
