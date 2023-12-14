@@ -2,7 +2,7 @@
 title: "perché siete qui?"
 excerpt_separator: "<!--more-->"
 categories:
-  - cura delle creature magiche
+  - cura-delle-creature-magiche
 tags:
   - contemporaneo
 author: Giuseppe
@@ -108,7 +108,7 @@ fatto che si è attesa un'opera conforme ad una regola, senza alcuna
 capacità di ascolto della regola interna all'opera, di cui l'opera è
 attivazione.
 
-![image](images/9049_3.jpg)
+![no-alignment]({{ '/images/9049_3.jpg' | absolute_url }})
 
 ## il qui
 
@@ -171,7 +171,7 @@ c'era molto, molto, molto ancora da risolvere, nel futuro.
 *Se non per questo, perché eravamo lì?*
 
 
-![image](images/IMG_2215.jpg)
+![no-alignment]({{ '/images/IMG_2215.jpg' | absolute_url }})
 
 ## l'altrove
 
